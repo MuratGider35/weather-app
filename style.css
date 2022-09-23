@@ -38,4 +38,27 @@ body {
   border-bottom: 2px solid rgb(241, 142, 12);
   font-size: 20px;
   color: rgb(241, 142, 12);
+  text-align: center;
+}
+.city {
+  font-size: 35px;
+  font-weight: 500;
+  margin-bottom: 10px;
+  text-shadow: 1px 3px rgba(0, 0, 0, 0.7);
+}
+.temp {
+  font-size: 100px;
+  font-weight: 700;
+  margin-bottom: 15px;
+  text-shadow: 1px 5px rgba(0, 0, 0, 0.7);
+}
+.desc {
+  font-size: 25px;
+  font-style: italic;
+  text-shadow: 1px 3px rgba(0, 0, 0, 0.7);
+  margin-bottom: 10px;
+}
+.minmax {
+  font-size: 24px;
+  text-shadow: 1px 3px rgba(0, 0, 0, 0.7);
 }
